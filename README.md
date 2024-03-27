@@ -1,8 +1,15 @@
-# expendedwidget
+# BMI Calculator 
 
 A new Flutter project.
+The BMI Calculator project provides a practical tool for users to assess their BMI quickly and conveniently. 
+
+
 
 ## Getting Started
+
+## UI 
+
+![bmi](https://github.com/khairozzaman91/BMI-calculator/assets/60986410/db5ee0f4-83a7-4b88-b3d1-e637eef93061)
 
 This project is a starting point for a Flutter application.
 
